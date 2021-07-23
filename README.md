@@ -9,10 +9,12 @@ Bootstrap 4 breakpoints detector. Straightforward pure js class to detect curren
 
 Include breakpoint_detector.js file, preferably at the bottom of your HTML document.
 
-`<script src="breakpoint_detector.js"></script>`
+```html
+<script src="breakpoint_detector.js"></script>
+```
 
 Initialize  script like this:
-```
+```javascript
 document.addEventListener("DOMContentLoaded", function() {
   let breakpoint = new BS4breakpoints();
   breakpoint.log();
