@@ -2,7 +2,7 @@
 Bootstrap 4 breakpoints detector. Straightforward pure js class to detect current breakpoint and log it into console.
 [DEMO PAGE](https://asondej.github.io/Breakpoints4Bootstrap/)
 
-![log breakpoint in console](https://github.com/asondej/Breakpoints4Bootstrap/blob/main/docs/breakpoints4bootsrap.gif)
+[![log breakpoint in console](https://github.com/asondej/Breakpoints4Bootstrap/blob/main/docs/breakpoints4bootsrap.gif)](https://asondej.github.io/Breakpoints4Bootstrap/)
 
 
 ## How to use?
