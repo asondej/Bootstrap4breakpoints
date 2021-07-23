@@ -5,6 +5,7 @@ Straightforward pure js class to detect current breakpoint and log it into conso
 
 ![log breakpoint in console](https://github.com/asondej/Breakpoints4Bootstrap/blob/main/docs/breakpoints4bootsrap.gif)
 
+
 ## How to use?
 
 Include breakpoint_detector.js file, preferably at the bottom of your HTML document.
